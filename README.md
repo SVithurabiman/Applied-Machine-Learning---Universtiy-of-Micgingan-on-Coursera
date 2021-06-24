@@ -1,1 +1,1 @@
-# Applied-Machine-Learning---Universtiy-of-Micgingan-on-Coursera
+# Applied-Machine-Learning-Universtiy-of-Micgingan-on-Coursera
